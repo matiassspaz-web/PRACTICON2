@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DispositivoSmart/DispositivoSmart.iml" filepath="$PROJECT_DIR$/DispositivoSmart/DispositivoSmart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gestor de Suscripciones/Gestor de Suscripciones.iml" filepath="$PROJECT_DIR$/Gestor de Suscripciones/Gestor de Suscripciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Informe del TP3/Informe del TP3.iml" filepath="$PROJECT_DIR$/Informe del TP3/Informe del TP3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRACTICON2.iml" filepath="$PROJECT_DIR$/PRACTICON2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pasarela de Pagos/Pasarela de Pagos.iml" filepath="$PROJECT_DIR$/Pasarela de Pagos/Pasarela de Pagos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistema de trasporte/Sistema de trasporte.iml" filepath="$PROJECT_DIR$/Sistema de trasporte/Sistema de trasporte.iml" />
