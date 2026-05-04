@@ -33,7 +33,7 @@ public class Empleado {
         System.out.println("Total empleados: " + total);
     }
 
-    // 👉 MAIN ADENTRO DE LA CLASE
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
